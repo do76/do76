@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 Cool stuff you should check out:  
 https://github.com/neatplusone/gossa-simple-web-server
+https://github.com/neatplusone/openwrt_simpler_wakeonlan
